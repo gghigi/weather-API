@@ -13,24 +13,31 @@
 </head>
 <body>
 
-    <div class="section">
+
+
+    <div class="section d-flex justify-content-center m-3">
         <h1>Weather API by city via OpenWeather.com</h1>
+    </div>
+    
+
+    <div class="section d-flex justify-content-center m-3"> 
         <!--Input & button-->
-        <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username"
-                aria-describedby="button-addon2">
-            <button class="btn btn-outline-secondary" type="button" id="button-addon2">Button</button>
+        <div class="input-group mx-5">
+            <input type="text" id="input-field" class="form-control" placeholder="City name" aria-label="City name"
+                aria-describedby="button">
+            <button class="btn btn-outline-dark" type="button" id="button btn-primary btn-lg">Go!</button>
         </div>
     </div>
 
-    <div class="section">
+    <div class="section d-flex justify-content-center m-3">
         <!--Card-->
-        <div class="card">
+        <div class="card" id="card-results">
             <div class="card-body">
-                This is some text within a card body.
+                This where the weather for your city shows.
             </div>
         </div>
     </div>
+
 
 
 
