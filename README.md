@@ -1,6 +1,6 @@
 # weather-API
 
-![Actual Project](/images/Screenshot 2021-02-24 165651.png)
+![Actual Project](images/header_image.png)
 
 a small project using the [openweathermap](https://openweathermap.org/api) to provide the forecast info on a submitted city of choice.
 ## Getting Started
