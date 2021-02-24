@@ -3,6 +3,12 @@
 ![Actual Project](images/header_image.png)
 
 a small project using the [openweathermap](https://openweathermap.org/api) to provide the forecast info on a submitted city of choice.
+
+[![GitHub issues](https://img.shields.io/github/issues/gghigi/weather-API)](https://github.com/gghigi/weather-API/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gghigi/weather-API)](https://github.com/gghigi/weather-API/network)
+[![GitHub stars](https://img.shields.io/github/stars/gghigi/weather-API)](https://github.com/gghigi/weather-API/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gghigi/weather-API)](https://github.com/gghigi/weather-API/blob/main/LICENSE)
+
 ## Getting Started
 
 - Clone the repository to your machine with `git clone https.....`
